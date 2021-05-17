@@ -1,0 +1,24 @@
+.Footer {
+  font-family:'Times New Roman', Times, serif;
+  text-decoration: highlight;
+  text-align: center;
+  font-size: 20px;
+  font-weight:bold;
+  color: #8a2be2;
+}
+.Header {
+  font-family: Lucida Handwriting;
+  text-align: center;
+  font-size: 35px;
+  color: orange;
+}
+.App {
+  font-family: Lucida Handwriting;
+  text-align: justify;
+  font-size: 15px;
+  font-weight: bolder;
+  word-spacing: 5px;
+  line-height: 1.8;
+  padding: 40px 50px 40px 50px;
+  background-image: url("https://www.freecodecamp.org/news/content/images/size/w2000/2020/04/w-qjCHPZbeXCQ-unsplash.jpg");
+}
